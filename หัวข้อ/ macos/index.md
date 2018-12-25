@@ -1,4 +1,4 @@
----
+bub---
 aliases: macosx, macos-sierra, macos-app, mac-osx, mac
 created_by: Apple
 display_name: macOS
